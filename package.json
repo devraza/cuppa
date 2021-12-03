@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Cuppa Dark Theme",
+                "label": "Cuppa",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Cuppa Dark Theme-color-theme.json"
+                "path": "./themes/Cuppa-color-theme.json"
             }
         ]
     }
