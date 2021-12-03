@@ -1,13 +1,8 @@
-# README
-## This is the README for your extension "cuppa"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cuppa
+Cuppa is a dark theme for Visual Studio Code, brewed with love and designed to be easy on the eyes.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+It is still a work in progress, with research being done (which colours go with which, etc.) and as of the time of writing, the only way to install cuppa is through cloning the project into your `C:/<USERNAME>/.vscode/extensions` folder.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Once Cuppa reaches a state of development considered usable and complete-ish it will be attempted to be uploaded to Visual Studio Code's theme explorer.
 
-**Enjoy!**
+> Cuppa is inspired by gruvbox, and possibilities of a theme for vim and emacs exist.
