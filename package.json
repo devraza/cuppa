@@ -1,0 +1,21 @@
+{
+    "name": "cuppa",
+    "displayName": "Cuppa",
+    "description": "A dark theme for Visual Studio, brewed with love.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cuppa Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cuppa Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
